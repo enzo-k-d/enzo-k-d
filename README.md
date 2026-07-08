@@ -30,7 +30,7 @@
 
 ***Me chamo Enzo Kleinkauf Dauernheimer*** (pronúncia: Kláin-kauf Dáun-rháimer, Apelido: Tucano Marildo), tenho ***16 anos*** e sou de Mondaí, Santa Catarina. Sou apaixonado por tecnologia e música (arte no geral), e atualmente atuo como ***estagiário de DevOps*** na ***SKA Tech Hub***.
 
-Possuo experiência com desenvolvimento de software, infraestrutura e automações, incluindo projetos desenvolvidos com Playwright, e já vendi automações para setores de . Também tenho certificações em programação, postura e imagem profissional e administração, obtidas pela SKA Tech Hub, Alura, SENAI e Fundação Bradesco.
+Possuo experiência com desenvolvimento de software, infraestrutura e automações, incluindo projetos desenvolvidos com Playwright, alguns deles comercializados para empresas e voltados à automação de processos administrativos e contábeis. Também tenho certificações em programação, postura e imagem profissional e administração, obtidas pela SKA Tech Hub, Alura, SENAI e Fundação Bradesco.
 
 Atualmente curso o Ensino Médio na Escola Demilda Silveira e o curso Técnico em Desenvolvimento de Sistemas pelo SENAI.
 
@@ -145,7 +145,7 @@ Atualmente curso o Ensino Médio na Escola Demilda Silveira e o curso Técnico e
   />
 </p>
 
-### 🐳 DevOps e Infraestrutura
+### 🐳 Ferramentas
 <p>
   <!--- VSC: ---> <img 
     alt="VS Code" 
